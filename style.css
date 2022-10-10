@@ -265,3 +265,86 @@ button:hover {
   border-radius: 0px;
   padding-top: 100px;
 }
+
+.img2 {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 50px;
+}
+
+.img3 {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 50px;
+  margin-top: 1%;
+  margin-bottom: 0%;
+}
+.img22 {
+  padding-top: 55px;
+  padding-bottom: 95px;
+}
+
+.txt44 {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  padding-bottom: 30px;
+  line-height: 30px;
+}
+
+.lets {
+  letter-spacing: 10px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.roww {
+  display: flex;
+  align-items: center; /* aligns all the items vertically centered */
+  justify-content: center; /* aligns all the items horizontally centered */
+}
+
+#boxes {
+  margin-top: 10%;
+}
+
+#leftbox h3 {
+  font-size: 15px;
+
+}
+
+
+#middlebox h3 {
+  font-size: 20px;
+
+}
+
+#rightbox h3 {
+  font-size: 15px;
+
+}
+#leftbox {
+  float: left;
+  margin-left: 100px;
+  width: 20%;
+  height: 280px;
+}
+#middlebox {
+  float: left;
+
+  width: 20%;
+  height: 280px;
+}
+#rightbox {
+  float: right;
+  width: 20%;
+  margin-right: 100px;
+  height: 280px;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
