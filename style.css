@@ -313,18 +313,14 @@ button:hover {
 
 #leftbox h3 {
   font-size: 15px;
-
 }
-
 
 #middlebox h3 {
   font-size: 20px;
-
 }
 
 #rightbox h3 {
   font-size: 15px;
-
 }
 #leftbox {
   float: left;
@@ -347,4 +343,120 @@ button:hover {
 h1 {
   color: green;
   text-align: center;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px red solid;
+  max-height: 50%;
+}
+.image2 {
+  position: absolute;
+  object-position: left;
+  top: 30px;
+  left: 30px;
+  border: 1px green solid;
+}
+.img222 {
+  height: 200px;
+  width: 50%;
+}
+
+.gfg {
+  margin-top: 35px;
+  margin: 3%;
+  position: relative;
+  padding-top: 50px;
+}
+
+.first-txt {
+  position: absolute;
+  top: 17px;
+  left: 50px;
+}
+
+.second-txt {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+}
+
+
+.border-right {
+  border-right: 3px solid #a0138e;
+}
+
+
+
+.container212 {
+  position: relative;
+  text-align: center;
+  color: white;
+  align-self: center;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  text-align: left;
+}
+
+
+
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.parent {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+.image1 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  border: 1px red solid;
+}
+.image2 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border: 1px green solid;
 }
