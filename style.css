@@ -388,12 +388,9 @@ h1 {
   left: 10px;
 }
 
-
 .border-right {
   border-right: 3px solid #a0138e;
 }
-
-
 
 .container212 {
   position: relative;
@@ -417,9 +414,6 @@ h1 {
   text-align: left;
 }
 
-
-
-
 /* Top right text */
 .top-right {
   position: absolute;
@@ -442,7 +436,6 @@ h1 {
   transform: translate(-50%, -50%);
 }
 
-
 .parent {
   position: relative;
   top: 30px;
@@ -459,4 +452,37 @@ h1 {
   top: 30px;
   left: 30px;
   border: 1px green solid;
+}
+
+.hanhan {
+  padding-top: 48px;
+}
+
+.hanhan2 {
+  padding-top: 25%;
+  color: white;
+  font-size: 44px;
+}
+
+.wee {
+  color: white;
+}
+
+.btn1 {
+  background-color: none;
+  color: white;
+  border-radius: 50px;
+  border-color: white;
+}
+
+.btn2 {
+  background-color: #a73215;
+  border-color: white;
+
+  border-radius: 50px;
+  color: white;
+}
+
+.tree {
+  padding-bottom: 23%;
 }
