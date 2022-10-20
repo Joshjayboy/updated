@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container222 {
+  width: 100%;
+  height: 1vh;
+  margin-top: 15%;
+  background: #212121;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-card222 {
+  width: 100%;
+  /* max-width: 450px; */
+  text-align: center;
+  background: #fff;
+  color: #333;
+  height: 50vh;
+}
+
+.cover-pic222 {
+    display: block;
+    width: 100%;
+}
+
+.profile-pic222 {
+    width: 240px;
+    border-radius: 20%;
+    margin-top: 0px;
+    float: left;
+    padding-left: 0px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
