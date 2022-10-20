@@ -486,3 +486,65 @@ h1 {
 .tree {
   padding-bottom: 23%;
 }
+
+.user {
+  /* The image used */
+  background-image: url("/images/user.jpg");
+
+  /* Full height */
+  height: 50vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pass {
+  border-radius: 50px;
+  align-items: left;
+  align-content: flex-start;
+  margin-left: 35px;
+}
+
+.product-holder {
+  position: relative;
+  display: block;
+  margin-top: 0%;
+  /* transform: translate(-1%, -1%); */
+ 
+}
+
+.plus-image {
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.welcome {
+  font-size: 90px;
+  font-weight: 700;
+  letter-spacing: 13px;
+  text-align: center;
+}
+
+.m3 {
+  width: 100%;
+  margin: 0%;
+}
+
+.create {
+  margin-top: 55px;
+  background-color: #eb4836;
+  color: white;
+  border: none;
+}
+
+.plus {
+
+  border-radius: 50%;
+  background-color: #e7334e;
+}
