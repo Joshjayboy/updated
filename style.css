@@ -537,14 +537,17 @@ h1 {
   margin-top: 55px;
   background-color: #eb4836;
   color: white;
+  font-size: 30px;
+  font-weight: bold;
   border: none;
+  letter-spacing: 0.1ch;
+  border-radius: 25px;
 }
 
 .plus {
   border-radius: 50%;
   background-color: #e7334e;
 }
-
 
 /* 
 * {
@@ -573,26 +576,18 @@ h1 {
 }
 
 .cover-pic222 {
-    display: block;
-    width: 100%;
+  display: block;
+  width: 100%;
 }
 
 .profile-pic222 {
-    width: 240px;
-    border-radius: 20%;
-    margin-top: 0px;
-    float: left;
-    padding-left: 0px;
-    margin-left: 100px;
+  width: 240px;
+  border-radius: 20%;
+  margin-top: 0px;
+  float: left;
+  padding-left: 0px;
+  margin-left: 100px;
 }
-
-
-
-
-
-
-
-
 
 * {
   margin: 0;
@@ -620,38 +615,67 @@ h1 {
 }
 
 .cover-pic222 {
-    display: block;
-    width: 100%;
+  display: block;
+  width: 100%;
 }
 
 .profile-pic222 {
-    width: 240px;
-    border-radius: 20%;
-    margin-top: 0px;
-    float: left;
-    padding-left: 0px;
-    margin-left: 100px;
+  width: 240px;
+  border-radius: 20%;
+  margin-top: 0px;
+  float: left;
+  padding-left: 0px;
+  margin-left: 100px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .iii {
   margin-top: 85%;
   margin-left: 55%;
 }
 
-
-
 .iii1 {
+  width: 100%;
+}
+
+.formm {
+  width: 50%;
   margin-top: 25%;
-  margin-left: 59%;
+  margin-left: 20%;
+}
+
+.dissa {
+  margin-left: 0%;
+  font-size: larger;
+  font-weight: 900;
+}
+
+.mmbb {
+  align-items: flex-start;
+  text-align: start;
+}
+
+.wow {
+  margin-left: 0%;
+}
+
+.proname {
+  margin-left: 15px;
+  font-size: larger;
+  font-weight: 900;
+  background-color: #eb4836;
+  color: white;
+  margin-right: 68%;
+  border-radius: 25px; 
+  padding-left: 15px;
+
+
+}
+
+.ini {
+  padding-top: 35px;
+  border-color:  #eb4836;
+  border-radius: 18px;
+/*  
+  border: 12px;
+  border-color:  #eb4836; */
 }
