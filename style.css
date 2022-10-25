@@ -666,17 +666,42 @@ h1 {
   background-color: #eb4836;
   color: white;
   margin-right: 68%;
-  border-radius: 25px; 
+  border-radius: 25px;
   padding-left: 15px;
-
-
 }
 
 .ini {
   padding-top: 35px;
-  border-color:  #eb4836;
+  border-color: #eb4836;
   border-radius: 18px;
-/*  
+  /*  
   border: 12px;
   border-color:  #eb4836; */
+}
+
+.hanhan3 {
+  padding-top: 25%;
+  color: white;
+  font-size: 44px;
+  margin-left: 95px;
+}
+
+.hanhan4 {
+  padding-top: 5%;
+  color: white;
+  font-size: 24px;
+  margin-left: 95px;
+}
+
+.wee2 {
+  color: white;
+  margin-left: 95px;
+}
+
+.bbttnn {
+  margin-left: 90px;
+}
+
+.bbttnn span {
+  color: #ffffff;
 }
