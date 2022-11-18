@@ -705,3 +705,37 @@ h1 {
 .bbttnn span {
   color: #ffffff;
 }
+
+.hanhan2 span {
+  color: white;
+  font-size: 25px;
+
+  letter-spacing: 3px;
+}
+
+.newhan {
+  margin-left: 95px;
+}
+
+.background222 {
+  margin-left: 85px;
+  padding-top: -1%;
+  margin-top: 92px;
+  color: black;
+  font-size: 20px;
+  background-color: antiquewhite;
+  /* padding: 15px; */
+  border-radius: 20px;
+  /* padding-left: 5px; */
+}
+
+
+.hanhannew {
+  margin-left: 55px;
+ 
+}
+
+.hanhan222 {
+  padding-top: -56px;
+
+}
